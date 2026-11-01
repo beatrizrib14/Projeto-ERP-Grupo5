@@ -49,18 +49,6 @@ Pendências registradas: [ao final do documento](#pendências-registradas)
 | Grupo | 5 |
 | Etapa | Entrega final (2026) |
 
-**Integrantes**
-
-| Nome | RGM |
-|---|---|
-| Ana Beatriz Ribeiro de Almeida | 48902608 |
-| Bruno Rodrigues Ribeiro | 049556932 |
-| Enzo Garcia de Souza | 48946095 |
-| Isabelle de Cássia Silva Cortez | 049444158 |
-| Kaique Duque Lançanova | 49971280 |
-| Luíza Veríssimo Borges Gonçalves | 49814206 |
-| Pedro Henrique Mendes Alves | 49919318 |
-
 ## 2. Sobre o projeto
 
 A entrega final evolui a primeira entrega do grupo (nota 7,0). O trabalho revisou o DER, consolidou o modelo lógico aprovado (revisão 3), analisou a normalização, produziu o dicionário de dados e o modelo físico, e implementou o banco em PostgreSQL 16 com massa de dados, consultas e testes executados.
